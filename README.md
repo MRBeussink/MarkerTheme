@@ -7,11 +7,11 @@ Most Xcode themes suffer for one or both of two problems:
 * they are boring, flat, or otherwise dull
 * they do not match the light UI
 
-MarkerTheme fixes these problems by being light and colorful, try to match to UI while also allowing `code` to pop off the screen.
+MarkerTheme fixes these problems by being light and colorful, trying to match to the UI while also allowing `code` to pop off the screen without too much [eyestrain](https://justgetflux.com).
 
 ### Design
 
-Jack White believes that [restrictions are an important part of creation](https://youtu.be/8iNCQPoYk70.  Taking his example, the theme follows a set of rules to add clarity to syntax.
+Jack White believes that [restrictions are an important part of creation](https://youtu.be/8iNCQPoYk70).  Taking his example, the theme follows a set of rules to add clarity to syntax.
 
 #### Colors     
      
