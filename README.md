@@ -24,7 +24,7 @@ Purple | #822586 | project `variables`, `types`, and `classes`
 Orange | #E76D30 | `functions` and `methods`
 Yellow | #F0AB38 | `documentation` comments
 
-##### Emphasis
+#### Emphasis
 Weight | Usage
 ------ | -----
 **Bold** | `keywords`, `constants` and `variables`
