@@ -15,14 +15,14 @@ Jack White believes that [restrictions are an important part of creation](https:
 
 #### Colors     
      
-Color | Hex | Usage
------ | --- | ----- 
-Red | #D72630 | `constants`, `numeric` and `character literals`
-Green | #52B236 | `string literals`, `attributes`, and `preprocessor statements`
-Blue | #378CD5 | `types`, `classes`, `properties` and `variables` from `Swift` and other libraries
-Purple | #822586 | project `variables`, `types`, and `classes`
-Orange | #E76D30 | `functions` and `methods`
-Yellow | #F0AB38 | `documentation` comments
+Color |![eyedropper](https://github.com/MRBeussink/MarkerTheme/blob/master/ImageResouces/eyedropper.png?raw=true)| Hex | Usage
+----- | --- | --- | ----- 
+Red |![red](https://github.com/MRBeussink/MarkerTheme/blob/master/ImageResouces/colorswab_red.png?raw=true) | #D72630 | `constants`, `numeric` and `character literals`
+Green | ![green](https://github.com/MRBeussink/MarkerTheme/blob/master/ImageResouces/colorswab_green.png?raw=true) | #52B236 | `string literals`, `attributes`, and `preprocessor statements`
+Blue | ![blue](https://github.com/MRBeussink/MarkerTheme/blob/master/ImageResouces/colorswab_blue.png?raw=true) |#378CD5 | `types`, `classes`, `properties` and `variables` from `Swift` and other libraries
+Purple | ![purple](https://github.com/MRBeussink/MarkerTheme/blob/master/ImageResouces/colorswab_purple.png?raw=true) | #822586 | project `variables`, `types`, and `classes`
+Orange | ![orange](https://github.com/MRBeussink/MarkerTheme/blob/master/ImageResouces/colorswab_orange.png?raw=true) | #E76D30 | `functions` and `methods`
+Yellow | ![yellow](https://github.com/MRBeussink/MarkerTheme/blob/master/ImageResouces/colorswab_yellow.png?raw=true) | #F0AB38 | `documentation` comments
 
 #### Emphasis
 Weight | Usage
@@ -35,7 +35,7 @@ Weight | Usage
 * the classic [six color Apple logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Apple_Computer_Logo_rainbow.svg/500px-Apple_Computer_Logo_rainbow.svg.png) for the color palette.
 
 ### Screenshot
-![Screenshot of Playground from Swift Programming: The Big Nerd Ranch Guide, chapter 7](https://raw.githubusercontent.com/MRBeussink/MarkerTheme/master/Screenshots/screenshot_02.png)
+![Screenshot of Playground from Swift Programming: The Big Nerd Ranch Guide, chapter 7](https://github.com/MRBeussink/MarkerTheme/blob/master/ImageResouces/screenshot_02.png?raw=true)
 
 > I hope you hate it!
 > \- Reese Roper
